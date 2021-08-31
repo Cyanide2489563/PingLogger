@@ -1,0 +1,5 @@
+name: PingLogger
+version: @version@
+main: team.dungeoncraft.pinglogger.PingLogger
+api-version: 1.16
+authors: [ Cyanide ]
